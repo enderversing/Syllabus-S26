@@ -54,6 +54,10 @@ This studio course introduces students to the culture and practice of open sourc
 - Using the command line
 - Merge conflicts!
 
+### Workflow
+
+- [Terminal, Shell, node.js, VSCode workflow video](https://youtu.be/46WOuOrMwTQ), and [workflow notes](https://github.com/CodingTrain/Discord-Bot-Examples/wiki/Workflow:-Terminal,-Shell,-Node,-VSCode)
+
 ### Reading
 
 - [The Art of Humanizing Pull Requests](https://dev.to/kulkarniankita9/the-art-of-humanizing-pull-requests-prs-2238) by Ankita Kulkarni
@@ -65,7 +69,7 @@ This studio course introduces students to the culture and practice of open sourc
 ### Assignment
 
 - Open an issue in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26)
-- Create a pull request in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26)
+- Create a pull request in the [Open Source Studio Playground](https://github.com/Open-Source-Studio-at-ITP/Playground-S26). You can add a new file or propose changes to an existing file. You could write a poem, introduce an image, a JSON dataset, anything you like! No code required!
 - Comment on at least one other issue / pull request.
 - Write some reflections on what open source means to you. Have you participated in an open source project before? What was your experience like? If not, why not? Respond to any of the readings above. You can write this as a blog post or medium post (be mindful of including image captions for accessibility). Pull request a link to your post below:
   - Name: [Title](url)
